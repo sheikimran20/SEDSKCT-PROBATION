@@ -277,6 +277,10 @@ blockquote {
   position: relative;
 }
 
+.tm-continue1 {
+	padding: 30px 60px ;
+}
+
 @media (max-width: 991px) {
   #testimonials {
     background-image: url(../img/infinite-loop-02-mobile.jpg);
