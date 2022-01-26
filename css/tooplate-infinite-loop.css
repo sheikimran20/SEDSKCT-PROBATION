@@ -223,23 +223,18 @@ blockquote {
     bottom: 50px;
   }
 	
-.tm-down-arrow-link {
-  display: block;
-  margin-top: 90%;
-}
-	
 }
 
 .tm-down-arrow-link {
   display: block;
-  margin-top: 80%;
+  margin-top: 50%;
 }
 
 .tm-down-arrow {
   	color: #FFF;
     cursor: pointer;
     background: #357;
-    padding: 30px 40px;
+    padding: 60px 40px;
     transition: all 0.3s ease;
 }
 
