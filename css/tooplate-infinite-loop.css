@@ -197,12 +197,12 @@ blockquote {
 }
 
 .tm-hero-title {
-  font-size: 4.5rem;
+  font-size: medium;
   text-shadow: 2px 2px 2px #333;
 }
 
 .tm-hero-subtitle {
-  font-size: 2.5rem;
+  font-size: small;
   text-shadow: 2px 2px 2px #333;
 }
 
@@ -221,16 +221,6 @@ blockquote {
   .tm-intro-next {
     bottom: 50px;
   }
-
-  .tm-hero-title {
-  font-size: medium;
-  text-shadow: 2px 2px 2px #333;
-  }
-
-  .tm-hero-subtitle {
-  font-size: small;
-  text-shadow: 2px 2px 2px #333;
-  }
 	
 .tm-down-arrow-link {
   display: block;
@@ -241,7 +231,7 @@ blockquote {
 
 .tm-down-arrow-link {
   display: block;
-  margin-top: 50%;
+  margin-top: 70%;
 }
 
 .tm-down-arrow {
