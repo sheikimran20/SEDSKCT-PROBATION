@@ -537,7 +537,7 @@ figure.effect-honey:hover h2 i {
 .contact-item {
   margin-bottom: 50px;
   display: flex;
-  padding-left: 82%;
+  padding: 50%;
 }
 
 .item-link {
