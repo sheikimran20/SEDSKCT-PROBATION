@@ -149,7 +149,7 @@ blockquote {
   background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url(../img/infinite-loop-01.jpeg);
   background-repeat: no-repeat;
   height: 60vh;
-  min-height: 1300px;
+  min-height: 1500px;
   background-size: cover;
   position: relative;
 }
@@ -319,11 +319,6 @@ blockquote {
 .tm-testimonial-item img {
   border-radius: 50%;
   margin-bottom: 35px;
-}
-
-.tm-testimonial-item-col-lg-5-intro-text-container-continue-a { 
-  text-align: center;
-
 }
 
 .tm-testimonial-item figcaption {
