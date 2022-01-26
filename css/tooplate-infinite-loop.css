@@ -302,7 +302,6 @@ blockquote {
 .tm-bg-overlay {
   width: 100%;
   height: 100%;
-  background: black;
   position: absolute;
   top: 0;
   left: 0;
@@ -544,7 +543,7 @@ figure.effect-honey:hover h2 i {
 .contact-item {
   margin-bottom: 50px;
   display: flex;
-  padding-left: 82%;
+  padding-left: 78%;
 }
 
 .item-link {
