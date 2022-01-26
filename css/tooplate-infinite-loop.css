@@ -154,7 +154,7 @@ blockquote {
   position: relative;
 }
 
-@media (min-height: 600px) and (min-width: 1920px) {
+@media (min-height: 600px) and (min-width: 100%) {
   #infinite {
     background-size: cover;
   }
@@ -223,14 +223,20 @@ blockquote {
   }
 
   .tm-hero-title {
-  font-size: 3rem;
+  font-size: medium;
   text-shadow: 2px 2px 2px #333;
   }
 
   .tm-hero-subtitle {
-  font-size: 1.5rem;
+  font-size: small;
   text-shadow: 2px 2px 2px #333;
   }
+	
+.tm-down-arrow-link {
+  display: block;
+  margin-top: 70%;
+}
+	
 }
 
 .tm-down-arrow-link {
