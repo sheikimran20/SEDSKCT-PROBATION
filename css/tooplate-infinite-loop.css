@@ -238,7 +238,7 @@ blockquote {
   	color: #FFF;
     cursor: pointer;
     background: #357;
-    padding: 15px 40px;
+    padding: 30px 40px;
     transition: all 0.3s ease;
 }
 
@@ -284,7 +284,7 @@ blockquote {
 }
 
 .tm-continue1 {
-	padding: 30px 60px ;
+	padding: 30px 50px ;
 }
 
 @media (max-width: 991px) {
@@ -543,7 +543,7 @@ figure.effect-honey:hover h2 i {
 .contact-item {
   margin-bottom: 50px;
   display: flex;
-  padding: 50%;
+  padding: 0 50%;
 }
 
 .item-link {
