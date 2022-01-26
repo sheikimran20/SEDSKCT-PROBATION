@@ -182,6 +182,17 @@ blockquote {
   #infinite {
     background-position: center -450px;
   }
+	
+.tm-hero-title {
+  font-size: 3.5rem;
+  text-shadow: 2px 2px 2px #333;
+}
+
+.tm-hero-subtitle {
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 2px #333;
+}
+	
 }
 
 .tm-hero-text-container {
@@ -197,12 +208,12 @@ blockquote {
 }
 
 .tm-hero-title {
-  font-size: medium;
+  font-size: 4.5rem;
   text-shadow: 2px 2px 2px #333;
 }
 
 .tm-hero-subtitle {
-  font-size: small;
+  font-size: 2.5rem;
   text-shadow: 2px 2px 2px #333;
 }
 
@@ -543,7 +554,7 @@ figure.effect-honey:hover h2 i {
 .contact-item {
   margin-bottom: 50px;
   display: flex;
-  padding-left: 50%;
+  padding-left: 82%;
 }
 
 .item-link {
