@@ -154,7 +154,7 @@ blockquote {
   position: relative;
 }
 
-@media (min-height: 600px) and (min-width: 2000px) {
+@media (min-height: 600px) and (min-width: 1920px) {
   #infinite {
     background-size: cover;
   }
