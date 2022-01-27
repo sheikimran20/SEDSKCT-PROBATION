@@ -78,7 +78,7 @@ blockquote {
 
 .tm-navbar {
   position: fixed;
-  width: 100px;
+  width: 1000px;
   z-index: 1000;
   background-color: transparent;
   transition: all 0.3s ease;
