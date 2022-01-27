@@ -78,7 +78,7 @@ blockquote {
 
 .tm-navbar {
   position: fixed;
-  width: 200%;
+  width: 600px;
   z-index: 1000;
   background-color: transparent;
   transition: all 0.3s ease;
@@ -126,7 +126,7 @@ blockquote {
 .navbar-toggler {
   border: 1px solid white;
   padding-left: 10px;
-  padding-right: 5px;
+  padding-right: 10px;
 }
 
 .navbar-toggler-icon {
