@@ -132,6 +132,7 @@ blockquote {
 .navbar-toggler-icon {
   color: white;
   padding-top: 6px;
+  padding-right: 10px;
 }
 
 .tm-navbar.scroll .navbar-toggler {
@@ -307,6 +308,7 @@ blockquote {
 }
 
 .tm-testimonials-content {
+  color: black;
   position: relative;
   z-index: 100;
 }
