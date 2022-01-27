@@ -126,13 +126,13 @@ blockquote {
 .navbar-toggler {
   border: 1px solid white;
   padding-left: 10px;
-  padding-right: 100%;
+  padding-right: 20px;
 }
 
 .navbar-toggler-icon {
   color: white;
   padding-top: 6px;
-  padding-right: 100%;
+  padding-right: 200px;
 }
 
 .tm-navbar.scroll .navbar-toggler {
