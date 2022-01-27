@@ -126,7 +126,7 @@ blockquote {
 .navbar-toggler {
   border: 1px solid white;
   padding-left: 10px;
-  padding-right: 20px;
+  padding-right: 10px;
 }
 
 .navbar-toggler-icon {
@@ -300,6 +300,14 @@ blockquote {
   background-repeat: no-repeat;
   background-size: 100%;
   position: relative;
+}
+
+@media (max-width: 991px) {
+  #testimonials {
+  background-color: black;
+  background-size: cover;
+  background-size: 100%;
+}
 }
 
 .tm-continue1 {
