@@ -271,8 +271,7 @@ blockquote {
 
 /* Testimonials */
 #testimonials {
-  color: white;
-  background-colour: black;
+  color: black;
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -285,7 +284,7 @@ blockquote {
 
 @media (max-width: 991px) {
   #testimonials {
-   background-colour: black;
+	  color: black;
   }
 }
 
