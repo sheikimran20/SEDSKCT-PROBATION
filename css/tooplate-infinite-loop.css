@@ -154,7 +154,7 @@ blockquote {
   position: relative;
 }
 
-@media (min-height: 600px) and (min-width: 5000px) {
+@media (min-height: 600px) and (min-width: 900px) {
   #infinite {
     background-size: cover;
   }
@@ -271,8 +271,8 @@ blockquote {
 
 /* Testimonials */
 #testimonials {
-  color: black;
-  background-image: url(../img/loop3.jpg);
+  color: white;
+  background-colour: black;
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -285,7 +285,7 @@ blockquote {
 
 @media (max-width: 991px) {
   #testimonials {
-    background-image: url(../img/loop3.jpg);
+   background-colour: black;
   }
 }
 
