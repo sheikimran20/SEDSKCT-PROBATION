@@ -233,21 +233,6 @@ blockquote {
   margin-top: 50%;
 }
 
-.tm-down-arrow {
-  	color: #FFF;
-    cursor: pointer;
-    background: #357;
-    padding-bottom: 10px;
-    transition: all 0.3s ease;
-}
-
-.tm-down-arrow:hover,
-.tm-down-arrow:focus {
-  color: #FFF;
-  background: #37A;
-  padding-bottom: 10px;
-}
-
 /* Introduction */
 
 #introduction {
