@@ -216,15 +216,15 @@ blockquote {
   }
 	
   .tm-hero-title {
-  font-size: 	3.25rem;
+  font-size: 2rem;
 }
 
   .tm-hero-subtitle {
-  font-size: 1.75rem;
+  font-size: 0.875remrem;
 }
 
   .tm-intro-next {
-    bottom: 50px;
+    bottom: 20px;
   }
 }
 
