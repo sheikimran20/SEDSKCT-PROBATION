@@ -313,6 +313,10 @@ blockquote {
   z-index: 100;
 }
 
+.tm-section-title{
+	color: black;
+}
+
 .tm-bg-overlay {
   width: 100%;
   height: 100%;
