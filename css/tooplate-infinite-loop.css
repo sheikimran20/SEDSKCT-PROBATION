@@ -1,9 +1,6 @@
 /*
-
 Tooplate 2117 Infinite Loop
-
 https://www.tooplate.com/view/2117-infinite-loop
-
 */
 
 @import url("https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900");
@@ -125,14 +122,13 @@ blockquote {
 
 .navbar-toggler {
   border: 1px solid white;
-  padding-left: 100%;
-  padding-right: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .navbar-toggler-icon {
   color: white;
   padding-top: 6px;
-  padding-right: 200px;
 }
 
 .tm-navbar.scroll .navbar-toggler {
@@ -155,7 +151,7 @@ blockquote {
   position: relative;
 }
 
-@media (min-height: 600px) and (min-width: 900px) {
+@media (min-height: 600px) and (min-width: 1920px) {
   #infinite {
     background-size: cover;
   }
@@ -183,7 +179,6 @@ blockquote {
   #infinite {
     background-position: center -450px;
   }
-	
 }
 
 .tm-hero-text-container {
@@ -199,7 +194,7 @@ blockquote {
 }
 
 .tm-hero-title {
-  font-size: 4rem;
+  font-size: 4.5rem;
   text-shadow: 2px 2px 2px #333;
 }
 
@@ -223,12 +218,11 @@ blockquote {
   .tm-intro-next {
     bottom: 50px;
   }
-	
 }
 
 .tm-down-arrow-link {
   display: block;
-  margin-top: 80%;
+  margin-top: 50%;
 }
 
 .tm-down-arrow {
@@ -270,56 +264,31 @@ blockquote {
 	padding: 20px 0 30px 0;
 }
 
-@media (max-width: 991px) {
-  #introduction {
-  padding-bottom: 100px;
-}
-
-.tm-section-title {
-  font-size: 2.5rem;
-  font-weight: normal;
-}
-
-.tm-intro-text {
-  font-size: 1.2rem;
-}
-
-.tm-icon {
-  display: block;
-  color: #37A;
-}
-
-.tm-continue {
-	padding: 20px 0 30px 0;
-}
-}
-
 /* Testimonials */
 #testimonials {
-  color: black;
+  color: white;
+  background-image: url(../img/loop3.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 100%;
   position: relative;
 }
 
-.tm-continue1 {
-	padding: 30px 50px ;
+@media (max-width: 991px) {
+  #testimonials {
+    background-image: url(../img/infinite-loop-02-mobile.jpg);
+  }
 }
 
 .tm-testimonials-content {
-  color: black;
   position: relative;
   z-index: 100;
-}
-
-.tm-section-title{
-	color: black;
 }
 
 .tm-bg-overlay {
   width: 100%;
   height: 100%;
+  background: rgba(20, 70, 80, 0.2);
   position: absolute;
   top: 0;
   left: 0;
@@ -342,6 +311,11 @@ blockquote {
 .tm-testimonial-item img {
   border-radius: 50%;
   margin-bottom: 35px;
+}
+
+.tm-testimonial-item-col-lg-5-intro-text-container-continue-a { 
+  text-align: center;
+
 }
 
 .tm-testimonial-item figcaption {
@@ -383,14 +357,14 @@ blockquote {
 }
 
 .tm-testimonials-carousel .slick-dots li button:before {
-  color: black;
+  color: white;
   opacity: 0.5;
 }
 
 .tm-testimonials-carousel .slick-dots li button:hover:before,
 .tm-testimonials-carousel .slick-dots li button:focus:before,
 .tm-testimonials-carousel .slick-dots li.slick-active button:before {
-  color: black;
+  color: white;
   opacity: 1;
 }
 
@@ -556,7 +530,6 @@ figure.effect-honey:hover h2 i {
 .contact-item {
   margin-bottom: 50px;
   display: flex;
-  padding-left: 65%;
 }
 
 .item-link {
