@@ -237,7 +237,7 @@ blockquote {
   	color: #FFF;
     cursor: pointer;
     background: #357;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     transition: all 0.3s ease;
 }
 
