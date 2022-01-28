@@ -245,7 +245,7 @@ blockquote {
 .tm-down-arrow:focus {
   color: #FFF;
   background: #37A;
-  padding: 20px 50px;
+  padding-bottom: 10px;
 }
 
 /* Introduction */
