@@ -78,7 +78,7 @@ blockquote {
 
 .tm-navbar {
   position: fixed;
-  width: 1000px;
+  width: 100%;
   z-index: 1000;
   background-color: transparent;
   transition: all 0.3s ease;
@@ -125,8 +125,8 @@ blockquote {
 
 .navbar-toggler {
   border: 1px solid white;
-  padding-left: 1000px;
-  padding-right: 200px;
+  padding-left: 100%;
+  padding-right: 100%;
 }
 
 .navbar-toggler-icon {
@@ -228,7 +228,7 @@ blockquote {
 
 .tm-down-arrow-link {
   display: block;
-  margin-top: 50%;
+  margin-top: 80%;
 }
 
 .tm-down-arrow {
