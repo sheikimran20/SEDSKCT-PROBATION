@@ -214,6 +214,16 @@ blockquote {
   .tm-hero-text-container-inner {
     margin-top: -40px;
   }
+	
+  .tm-hero-title {
+  font-size: 	3.25rem;
+  text-shadow: 2px 2px 2px #333;
+}
+
+  .tm-hero-subtitle {
+  font-size: 1.75rem;
+  text-shadow: 2px 2px 2px #333;
+}
 
   .tm-intro-next {
     bottom: 50px;
