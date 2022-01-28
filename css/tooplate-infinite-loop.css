@@ -216,11 +216,11 @@ blockquote {
   }
 	
   .tm-hero-title {
-  font-size: 2rem;
+  font-size: medium;
 }
 
   .tm-hero-subtitle {
-  font-size: 0.875remrem;
+  font-size: small;
 }
 
   .tm-intro-next {
@@ -296,7 +296,7 @@ blockquote {
 .tm-bg-overlay {
   width: 100%;
   height: 100%;
-  background: rgba(20, 70, 80, 0.2);
+  background: black;
   position: absolute;
   top: 0;
   left: 0;
